@@ -16,4 +16,4 @@ PostgreSQL, Python, Pandas, Matplotlib + Seaborn, MS Excel
 - применение в работе ключевых математических методов и основ статистики,
 - прогнозирование событий на основе данных,
 - способность создавать аналитические решения и представлять их бизнесу:
-  * [дипломная раборта "Анализ ассортиментных матриц](https://github.com/OlgaTeplenina/assortment-analysis)
+  * [дипломная работа "Анализ ассортиментных матриц](https://github.com/OlgaTeplenina/assortment-analysis)
