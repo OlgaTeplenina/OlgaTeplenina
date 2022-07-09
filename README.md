@@ -4,7 +4,7 @@
 
 ## Мой стек:
 
-PostgreSQL, Python, Pandas, MS Excel
+PostgreSQL, Python, Pandas, Matplotlib + Seaborn, MS Excel
 
 ## Ключевые навыки:
 * получение данных с помощью языка запросов SQL:
