@@ -14,7 +14,8 @@ PostgreSQL, Python, Pandas, Matplotlib + Seaborn, MS Excel
 * очистка и трансформация данных с помощью Python:
   * [кейсы по предобработке и визуализации данных](https://github.com/OlgaTeplenina/Pandas/blob/main/README.md)
   
-- применение в работе ключевых математических методов и основ статистики,
+* применение в работе ключевых математических методов и основ статистики:
+  * (https://github.com/OlgaTeplenina/statistics/blob/main/README.md)
 
 - прогнозирование событий на основе данных,
 
