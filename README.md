@@ -2,6 +2,8 @@
 
 Я **Ольга Тепленина**, аналитик данных.
 
+[Резюме](https://docs.google.com/document/d/19JbAeUksecz7zSuCme1Q-f5s8sUEWEO_7kew6He9eCM/edit?usp=sharing)
+
 ## Мой стек:
 
 PostgreSQL, Python, Pandas, Matplotlib + Seaborn, MS Excel
